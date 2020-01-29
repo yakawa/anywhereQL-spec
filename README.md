@@ -1,0 +1,2 @@
+# anywhereQL-spec
+anywhereQL Specifications.
